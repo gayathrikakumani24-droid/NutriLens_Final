@@ -267,14 +267,24 @@ http://127.0.0.1:8000/docs
 ```bash
 streamlit run frontend/app.py
 ```
-
-Streamlit URL:
-
-```text
-http://localhost:8501
-```
-
 ---
+# Screenshots
+### Login Page
+
+<img width="1366" height="643" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/75f3d4e9-a877-4a8e-aef4-05dafd34d610" />
+
+### Analysis Page
+
+<img width="1366" height="635" alt="Screenshot (350)" src="https://github.com/user-attachments/assets/e7e825a2-5f8e-4c1f-bd37-2d23e714e0fa" />
+
+### Analytics Page
+
+<img width="1366" height="640" alt="Screenshot (353)" src="https://github.com/user-attachments/assets/9d11dff3-2646-4685-9699-ccc84a291a59" />
+
+### Profile Page
+
+<img width="1366" height="638" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/15dd4361-bb6d-4146-b61e-89740054778e" />
+
 
 # 📈 Future Improvements
 
