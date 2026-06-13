@@ -1,5 +1,7 @@
 # 🍽️ NutriLens AI – Intelligent Food Detection & Nutrition Assistant
 
+<img width="1366" height="643" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/75f3d4e9-a877-4a8e-aef4-05dafd34d610" />
+
 NutriLens AI is an advanced AI-powered food analysis system that detects food items from images, estimates portion sizes, analyzes nutritional content, and provides personalized dietary recommendations.
 
 The system combines state-of-the-art Computer Vision, Retrieval-Augmented Generation (RAG), and Large Language Models to deliver accurate food recognition and intelligent nutrition guidance.
@@ -161,6 +163,7 @@ FOOD_DETECTOR/
 - **build_medical_db.py** – Builds the medical knowledge vector database.
 
 ### Models
+- Model weights are excluded from GitHub due to size limitations.
 - **clip_model.py** – CLIP-based image-text embedding utilities.
 - **yolov8n.pt** – YOLOv8 model for food object detection.
 - **sam_vit_b.pth** – Segment Anything Model (SAM) for food segmentation.
@@ -222,6 +225,8 @@ FOOD_DETECTOR/
 - Groq API
 
 ---
+# Architecture
+<img width="1366" height="768" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/9003ea92-d78f-4529-9032-9b637fc5e7ec" />
 
 # 📂 Datasets
 
@@ -318,7 +323,13 @@ http://127.0.0.1:8000/docs
 streamlit run frontend/app.py
 ```
 ---
-# Screenshots
+## 📈 Results
+
+- Accurate food recognition using fine-tuned CLIP on Food-20 dataset.
+- Multi-food detection using YOLOv8.
+- Portion estimation using U²-Net segmentation and MiDaS depth estimation.
+- Nutrition analysis from FNDDS and Indian Food Nutrition datasets.
+- Personalized dietary recommendations generated using Llama via Groq API.
 ### Login Page
 
 <img width="1366" height="643" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/75f3d4e9-a877-4a8e-aef4-05dafd34d610" />
@@ -334,7 +345,6 @@ streamlit run frontend/app.py
 ### Profile Page
 
 <img width="1366" height="638" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/15dd4361-bb6d-4146-b61e-89740054778e" />
-
 
 # 📈 Future Improvements
 
