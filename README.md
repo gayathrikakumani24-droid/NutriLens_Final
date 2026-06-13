@@ -141,6 +141,50 @@ FOOD_DETECTOR/
 ```
 
 ---
+## 📂 Project Structure
+
+### Frontend
+- **app.py** – Streamlit application entry point and user interface (optional).
+- **index.html** – Frontend template for web rendering.
+
+### Backend
+- **main.py** – Main API and application logic using FASTAPI.
+- **auth.py** – User authentication and authorization.
+- **database.py** – Database connection and operations.
+- **mongo_db.py** – MongoDB integration and queries.
+- **rag_retriever.py** – Retrieves nutrition knowledge using RAG.
+- **vector_search.py** – FAISS-based semantic search functionality.
+- **recommender.py** – Personalized food recommendation engine.
+- **medical_retriever.py** – Retrieves disease-specific dietary information.
+- **portion_estimator.py** – Estimates food portion sizes from detected items.
+- **build_rag_db.py** – Builds the nutrition knowledge vector database.
+- **build_medical_db.py** – Builds the medical knowledge vector database.
+
+### Models
+- **clip_model.py** – CLIP-based image-text embedding utilities.
+- **yolov8n.pt** – YOLOv8 model for food object detection.
+- **sam_vit_b.pth** – Segment Anything Model (SAM) for food segmentation.
+- **checkpoint_best.pt** – Custom trained food classification model.
+
+### Vector Database
+- **fndds_rag.faiss** – FAISS index for nutrition retrieval.
+- **fndds_docs.pkl** – Nutrition document metadata.
+- **ifnd_rag.faiss** – Indian food nutrition vector index.
+- **ifnd_docs.pkl** – Indian food nutrition metadata.
+- **medical.faiss** – Medical knowledge vector index.
+- **medical.pkl** – Medical knowledge metadata.
+
+### Data
+- **diet.db** – Local database containing dietary information.
+- **disease.csv** – Disease and dietary guideline dataset.
+- **fndds.xlsx** – Food and Nutrient Database for Dietary Studies.
+- **indian_food_nutrition.xlsx** – Indian food nutrition dataset.
+
+### Additional Resources
+- **assets/** – Screenshots of outputs.
+- **docs/** – Project documentation.
+- **requirements.txt** – Python dependencies.
+- **README.md** – Project overview and setup instructions.
 
 # 🛠️ Technologies Used
 
@@ -200,7 +244,7 @@ Used for dietary and health-related recommendations.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/NutriLens-AI.git
+git clone https://github.com/gayathrikakumani24-droid/NutriLens_Final.git
 
 cd NutriLens-AI
 ```
@@ -241,6 +285,12 @@ MONGO_URI=your_mongodb_connection_string
 ```
 
 ---
+## Create vector databases
+
+```bash
+python build_rag_db.py
+python build_medical_db.py
+```
 
 # ▶️ Running the Backend
 
