@@ -1,0 +1,48 @@
+Disease,Food to be Consumed,Food NOT to be Consumed
+Diabetes,Whole grains leafy greens nuts legumes,Sugary drinks white bread sweets
+Hypertension,Bananas spinach oats low-fat dairy,Salt processed foods pickles
+Heart Disease,Salmon olive oil fruits vegetables,Fried foods red meat butter
+Obesity,Fiber-rich foods fruits vegetables,Junk food sugary snacks soda
+Anemia,Spinach beetroot lentils dates,Tea coffee with meals processed foods
+Kidney Disease,Cauliflower cabbage apples,High potassium foods salty foods
+Liver Disease,Garlic berries leafy greens,Alcohol fried foods sugar
+Gastritis,Rice bananas boiled vegetables,Spicy food caffeine acidic food
+Arthritis,Fatty fish nuts seeds,Processed foods excess sugar
+Thyroid Disorder,Iodine-rich foods eggs dairy,Soy excess processed junk
+Asthma,Fruits vegetables omega-3 foods,Cold drinks sulfites processed food
+PCOS,Low GI foods whole grains vegetables,Sugar refined carbs junk food
+Migraine,Magnesium-rich foods nuts seeds,Chocolate caffeine alcohol
+Osteoporosis,Calcium-rich foods milk yogurt greens,Excess salt caffeine
+Depression,Omega-3 fatty acids fruits vegetables,Alcohol processed foods
+Anxiety,Whole grains nuts herbal tea,Caffeine sugar alcohol
+Constipation,Fiber fruits vegetables whole grains,Processed food dairy excess
+Diarrhea,ORS bananas rice apples,Spicy oily foods dairy
+Acidity,Alkaline foods bananas melons,Spicy fried foods citrus excess
+Ulcer,Soft foods milk rice bananas,Spicy food alcohol caffeine
+Celiac Disease,Gluten-free foods rice quinoa wheat substitutes,Wheat barley rye
+Epilepsy,Healthy fats ketogenic diet foods,Sugar refined carbs
+Parkinson’s Disease,Fruits vegetables omega-3 foods,Processed foods high protein excess
+Alzheimer’s Disease,Berries nuts leafy greens,Fried foods sugar
+Cancer,Antioxidant-rich foods fruits vegetables,Processed meats alcohol
+Tuberculosis,High protein foods eggs meat pulses,Junk food alcohol
+COVID-19 Recovery,Vitamin C zinc rich foods fruits,Processed junk sugary drinks
+Flu,Soups citrus fruits herbal tea,Fried foods cold drinks
+Common Cold,Vitamin C fruits warm fluids,Ice cream cold drinks
+Bronchitis,Garlic ginger turmeric foods,Smoking alcohol
+Pneumonia,Protein-rich foods fluids,Alcohol junk food
+Cholesterol High,Oats nuts olive oil,Fried foods butter red meat
+Stroke,Low salt foods fruits vegetables,Processed foods salt excess
+Fatty Liver,Fruits vegetables whole grains,Alcohol sugar fried foods
+Gallstones,Fiber foods fruits vegetables,Fatty fried foods
+Pancreatitis,Low fat foods fruits vegetables,Alcohol fatty foods
+Gout,Cherries low purine foods,Red meat alcohol seafood
+Rickets,Vitamin D milk sunlight exposure,Junk food
+Scurvy,Citrus fruits vegetables,Processed foods
+Night Blindness,Vitamin A foods carrots spinach,Junk food
+Hepatitis,High carb low fat foods fruits,Alcohol fatty foods
+Malaria Recovery,Protein rich foods fruits,Alcohol junk food
+Dengue Recovery,Fluids papaya leaf juice fruits,Oily food junk food
+Typhoid,Soft foods khichdi bananas,Spicy fried foods
+Chickenpox,Soft foods fruits fluids,Spicy salty foods
+Measles,Vitamin A rich foods fruits,Processed junk food
+Whooping

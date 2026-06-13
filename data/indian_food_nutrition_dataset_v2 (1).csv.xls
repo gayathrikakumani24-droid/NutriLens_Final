@@ -1,0 +1,201 @@
+food_name,description,portion_description,gram_weight(g),calories(kcal),protein(g),carbs(g),fat(g),iron(mg),calcium(mg),vitamin_c(mg),glycemic_index,health_tag,category
+Milk,Cow milk,1 glass,250,359,14.3,25.4,13.9,3.0,299,53,Low,BP-Friendly,Non-Veg
+Curd,Yogurt,1 bowl,200,223,18.3,47.9,0.3,1.3,23,76,High,General,Non-Veg
+Apple,Fresh apple,1 medium,150,242,13.4,43.0,12.5,2.1,124,26,Medium,Weight-Loss,Veg
+Paneer,Cottage cheese,100 g,100,360,20.2,33.6,2.4,4.0,187,6,Low,General,Non-Veg
+Sambar,Vegetable stew,1 bowl,200,205,14.5,57.9,6.6,4.9,245,42,Medium,General,Non-Veg
+Poha,Flattened rice dish,1 plate,200,360,8.7,34.8,1.2,3.4,62,18,Medium,General,Non-Veg
+Fish Curry,Fish gravy,1 bowl,250,81,9.8,32.7,5.7,3.1,49,9,High,General,Veg
+Apple,Fresh apple,1 medium,150,89,18.3,51.7,9.2,4.8,64,26,High,Weight-Loss,Non-Veg
+Potato,Boiled potato,1 medium,150,307,16.8,22.7,2.3,1.5,146,62,Medium,General,Veg
+Sambar,Vegetable stew,1 bowl,200,314,18.0,46.2,18.6,4.6,181,23,Low,Weight-Loss,Non-Veg
+Egg,Boiled egg,1 piece,50,360,6.8,54.0,10.5,4.1,136,67,Low,BP-Friendly,Non-Veg
+Fish Curry,Fish gravy,1 bowl,250,127,3.3,14.3,9.1,1.3,112,76,Medium,Diabetes-Friendly,Veg
+Brown Rice,Whole grain rice,1 cup,150,142,17.2,41.1,19.9,0.3,91,34,High,Diabetes-Friendly,Veg
+Dosa,Rice crepe,1 piece,120,390,3.3,6.0,4.3,1.1,47,5,High,Weight-Loss,Non-Veg
+Sambar,Vegetable stew,1 bowl,200,301,7.7,48.7,1.4,0.8,276,50,Low,Diabetes-Friendly,Non-Veg
+White Rice,Steamed rice,1 cup,150,378,21.2,38.7,1.9,4.6,138,64,Medium,General,Non-Veg
+Paneer,Cottage cheese,100 g,100,254,22.6,44.9,16.4,4.4,196,15,Low,BP-Friendly,Veg
+Dosa,Rice crepe,1 piece,120,98,12.1,42.8,16.1,1.8,29,12,High,General,Veg
+Dosa,Rice crepe,1 piece,120,317,16.4,13.6,9.8,5.0,139,22,Medium,General,Non-Veg
+Poha,Flattened rice dish,1 plate,200,123,21.4,35.3,17.6,1.4,56,24,Medium,BP-Friendly,Veg
+Sambar,Vegetable stew,1 bowl,200,97,16.0,22.2,15.2,4.3,155,33,Low,Diabetes-Friendly,Non-Veg
+Egg,Boiled egg,1 piece,50,223,22.8,35.3,14.5,3.4,260,41,High,Diabetes-Friendly,Non-Veg
+Dal,Lentil curry,1 bowl,200,299,22.4,30.1,10.2,2.0,162,54,High,Weight-Loss,Veg
+Roti,Whole wheat flatbread,1 medium,40,246,3.8,22.2,10.7,1.6,42,10,Medium,General,Non-Veg
+Carrot,Raw carrot,1 medium,60,126,6.2,15.1,16.4,1.0,185,46,High,Weight-Loss,Veg
+White Rice,Steamed rice,1 cup,150,74,23.1,24.7,15.8,4.4,41,17,Medium,Diabetes-Friendly,Non-Veg
+Paneer,Cottage cheese,100 g,100,359,24.6,19.7,1.2,4.9,116,42,Low,General,Non-Veg
+Fish Curry,Fish gravy,1 bowl,250,341,23.9,20.0,6.4,1.2,248,78,High,Diabetes-Friendly,Non-Veg
+Dosa,Rice crepe,1 piece,120,273,7.8,49.9,2.2,2.4,292,52,Medium,General,Non-Veg
+Egg,Boiled egg,1 piece,50,365,11.5,20.4,12.7,4.0,273,61,Low,Diabetes-Friendly,Veg
+Carrot,Raw carrot,1 medium,60,173,22.4,44.8,14.5,4.9,70,29,Low,Weight-Loss,Non-Veg
+Paneer,Cottage cheese,100 g,100,319,13.2,10.2,2.3,3.1,171,11,High,BP-Friendly,Non-Veg
+Dosa,Rice crepe,1 piece,120,245,13.0,46.3,2.4,1.2,228,12,Low,General,Non-Veg
+White Rice,Steamed rice,1 cup,150,352,10.1,5.2,0.6,1.6,245,25,Medium,BP-Friendly,Veg
+Dosa,Rice crepe,1 piece,120,217,13.3,43.9,11.2,3.7,183,67,Low,BP-Friendly,Veg
+Idli,Steamed rice cake,2 pieces,100,254,3.9,20.4,6.8,3.6,60,28,High,Diabetes-Friendly,Veg
+Banana,Fresh banana,1 medium,120,121,5.6,26.1,10.9,2.2,80,68,High,Diabetes-Friendly,Veg
+Apple,Fresh apple,1 medium,150,144,18.6,5.0,8.5,2.9,247,9,Low,Diabetes-Friendly,Veg
+Idli,Steamed rice cake,2 pieces,100,122,2.6,41.9,5.7,1.3,146,71,High,General,Non-Veg
+Spinach,Cooked spinach,1 cup,180,380,8.0,34.4,8.6,2.4,249,8,Low,Weight-Loss,Veg
+Upma,Semolina dish,1 plate,200,53,16.9,21.3,5.5,2.3,207,42,Medium,BP-Friendly,Veg
+Potato,Boiled potato,1 medium,150,127,3.5,43.5,4.9,0.5,213,61,Medium,Diabetes-Friendly,Veg
+Carrot,Raw carrot,1 medium,60,290,9.7,35.7,11.0,4.3,223,40,Medium,Diabetes-Friendly,Non-Veg
+Brown Rice,Whole grain rice,1 cup,150,315,3.0,23.9,8.2,4.2,177,58,Medium,Diabetes-Friendly,Non-Veg
+Spinach,Cooked spinach,1 cup,180,224,20.2,16.2,18.9,4.2,76,27,Medium,Diabetes-Friendly,Non-Veg
+Milk,Cow milk,1 glass,250,342,22.2,34.3,15.3,1.2,256,77,Low,BP-Friendly,Non-Veg
+Curd,Yogurt,1 bowl,200,85,17.0,57.1,1.0,3.1,7,20,Medium,General,Veg
+Egg,Boiled egg,1 piece,50,269,13.9,16.5,18.7,3.7,270,69,Medium,General,Non-Veg
+Poha,Flattened rice dish,1 plate,200,149,21.4,11.4,9.8,2.9,240,1,Low,BP-Friendly,Non-Veg
+Poha,Flattened rice dish,1 plate,200,180,17.1,31.5,16.2,4.0,207,34,High,General,Veg
+Dosa,Rice crepe,1 piece,120,102,3.1,41.7,2.4,2.3,8,58,Low,Weight-Loss,Veg
+Idli,Steamed rice cake,2 pieces,100,86,22.5,58.1,14.2,2.8,172,52,Low,General,Non-Veg
+Brown Rice,Whole grain rice,1 cup,150,388,19.7,13.7,2.4,0.7,23,79,Low,General,Non-Veg
+Idli,Steamed rice cake,2 pieces,100,62,11.0,42.8,7.9,0.4,50,12,Low,BP-Friendly,Non-Veg
+Apple,Fresh apple,1 medium,150,106,23.1,35.6,18.3,0.2,206,37,Medium,General,Non-Veg
+Idli,Steamed rice cake,2 pieces,100,263,6.3,14.3,8.0,3.6,253,37,Low,Diabetes-Friendly,Veg
+Biryani,Rice with meat,1 plate,300,313,23.6,40.1,9.7,3.7,286,48,Low,Diabetes-Friendly,Non-Veg
+Curd,Yogurt,1 bowl,200,159,19.3,31.4,6.5,2.2,54,75,Low,BP-Friendly,Non-Veg
+Egg,Boiled egg,1 piece,50,301,10.0,47.1,19.5,1.5,74,69,Medium,BP-Friendly,Non-Veg
+White Rice,Steamed rice,1 cup,150,65,13.2,23.1,7.8,2.6,97,10,Medium,Diabetes-Friendly,Non-Veg
+Dal,Lentil curry,1 bowl,200,274,21.7,55.7,10.2,2.7,10,9,High,Diabetes-Friendly,Veg
+Biryani,Rice with meat,1 plate,300,137,20.0,19.3,16.7,1.5,297,62,Medium,BP-Friendly,Non-Veg
+Dosa,Rice crepe,1 piece,120,220,17.6,19.0,14.8,2.9,167,24,Low,Weight-Loss,Non-Veg
+Dosa,Rice crepe,1 piece,120,110,15.3,54.5,10.6,5.0,290,75,High,Weight-Loss,Veg
+Curd,Yogurt,1 bowl,200,245,9.8,34.9,8.5,4.6,274,43,Low,Weight-Loss,Veg
+Dosa,Rice crepe,1 piece,120,223,12.1,5.2,16.6,3.5,6,62,Medium,Weight-Loss,Non-Veg
+Dal,Lentil curry,1 bowl,200,155,12.9,58.1,13.7,2.4,49,54,Low,General,Veg
+Roti,Whole wheat flatbread,1 medium,40,344,14.1,52.4,13.4,4.5,292,71,Low,BP-Friendly,Non-Veg
+Upma,Semolina dish,1 plate,200,330,6.2,26.5,7.8,1.1,271,5,Low,BP-Friendly,Veg
+Curd,Yogurt,1 bowl,200,62,8.3,12.5,20.0,0.5,272,37,Medium,BP-Friendly,Veg
+Dal,Lentil curry,1 bowl,200,279,4.6,12.2,17.7,2.8,152,40,Medium,General,Veg
+Poha,Flattened rice dish,1 plate,200,192,19.5,44.1,15.6,3.0,210,53,Low,Weight-Loss,Non-Veg
+Poha,Flattened rice dish,1 plate,200,348,23.9,13.7,11.9,4.2,164,57,Low,General,Veg
+Sambar,Vegetable stew,1 bowl,200,221,14.6,29.6,19.3,0.8,56,61,Low,BP-Friendly,Non-Veg
+Dosa,Rice crepe,1 piece,120,200,19.1,11.0,5.0,4.0,236,49,Medium,General,Veg
+Upma,Semolina dish,1 plate,200,109,16.9,29.8,13.2,1.6,279,24,Medium,Diabetes-Friendly,Non-Veg
+Carrot,Raw carrot,1 medium,60,99,17.6,36.6,16.2,1.0,118,21,Low,Diabetes-Friendly,Non-Veg
+Upma,Semolina dish,1 plate,200,72,10.5,40.3,18.7,1.4,21,50,Medium,BP-Friendly,Veg
+Dal,Lentil curry,1 bowl,200,389,1.7,27.7,15.9,1.8,116,53,Medium,General,Veg
+Spinach,Cooked spinach,1 cup,180,61,23.0,19.1,8.6,0.9,168,77,High,Diabetes-Friendly,Veg
+Milk,Cow milk,1 glass,250,184,21.7,36.1,15.1,1.2,89,2,High,Weight-Loss,Veg
+Potato,Boiled potato,1 medium,150,151,10.8,40.9,14.7,1.7,182,27,High,General,Veg
+Apple,Fresh apple,1 medium,150,358,22.4,50.3,12.5,3.2,19,14,Medium,BP-Friendly,Veg
+Dal,Lentil curry,1 bowl,200,294,10.8,55.0,2.4,4.1,265,70,Medium,General,Veg
+Roti,Whole wheat flatbread,1 medium,40,122,23.3,15.8,14.9,0.7,43,30,Low,Weight-Loss,Veg
+Apple,Fresh apple,1 medium,150,180,25.0,30.1,2.0,0.9,163,8,High,Diabetes-Friendly,Non-Veg
+Dal,Lentil curry,1 bowl,200,201,17.5,44.9,18.5,0.9,171,7,Medium,Diabetes-Friendly,Non-Veg
+Apple,Fresh apple,1 medium,150,57,23.6,47.0,18.0,2.9,136,78,Low,Weight-Loss,Non-Veg
+Sambar,Vegetable stew,1 bowl,200,300,8.2,51.1,6.6,0.8,284,69,Low,Weight-Loss,Non-Veg
+Egg,Boiled egg,1 piece,50,338,3.6,18.0,12.5,1.8,16,58,High,BP-Friendly,Non-Veg
+Poha,Flattened rice dish,1 plate,200,247,8.0,43.0,14.9,1.0,190,40,Low,BP-Friendly,Veg
+Potato,Boiled potato,1 medium,150,385,21.5,45.3,4.2,1.5,202,8,Medium,Diabetes-Friendly,Veg
+White Rice,Steamed rice,1 cup,150,148,10.1,10.3,6.7,0.7,141,52,Low,General,Non-Veg
+Idli,Steamed rice cake,2 pieces,100,212,12.5,29.1,6.6,2.2,186,80,Medium,General,Non-Veg
+White Rice,Steamed rice,1 cup,150,57,2.7,23.0,6.6,4.1,97,59,Medium,General,Veg
+Dal,Lentil curry,1 bowl,200,68,16.6,31.6,14.9,1.2,262,36,Medium,BP-Friendly,Non-Veg
+Biryani,Rice with meat,1 plate,300,166,23.8,5.2,9.3,5.0,63,10,Low,Weight-Loss,Non-Veg
+Paneer,Cottage cheese,100 g,100,391,23.8,54.4,5.9,0.6,43,54,Medium,Diabetes-Friendly,Veg
+Dosa,Rice crepe,1 piece,120,264,14.9,30.7,16.6,1.6,13,32,Medium,Diabetes-Friendly,Non-Veg
+Upma,Semolina dish,1 plate,200,179,23.8,21.1,13.2,2.1,16,26,Low,General,Veg
+Idli,Steamed rice cake,2 pieces,100,257,4.6,18.4,9.7,0.7,238,80,Low,Weight-Loss,Veg
+Brown Rice,Whole grain rice,1 cup,150,105,3.6,28.9,15.3,1.5,252,59,Medium,General,Veg
+White Rice,Steamed rice,1 cup,150,135,16.2,55.2,9.2,1.4,161,14,Medium,Weight-Loss,Non-Veg
+Sambar,Vegetable stew,1 bowl,200,239,5.1,35.9,14.3,1.2,280,63,Medium,Diabetes-Friendly,Non-Veg
+Carrot,Raw carrot,1 medium,60,332,7.5,6.6,13.2,4.6,88,32,Low,Weight-Loss,Non-Veg
+Apple,Fresh apple,1 medium,150,104,9.8,33.3,17.4,3.3,24,55,Medium,Diabetes-Friendly,Veg
+Paneer,Cottage cheese,100 g,100,111,2.0,40.5,8.7,4.9,73,28,Low,Diabetes-Friendly,Veg
+Brown Rice,Whole grain rice,1 cup,150,223,12.4,9.9,7.5,0.7,280,70,High,Diabetes-Friendly,Non-Veg
+Poha,Flattened rice dish,1 plate,200,199,6.8,14.4,11.4,0.9,87,47,Medium,Weight-Loss,Non-Veg
+Biryani,Rice with meat,1 plate,300,127,7.3,5.6,17.6,1.9,227,78,High,Diabetes-Friendly,Non-Veg
+Carrot,Raw carrot,1 medium,60,248,19.7,27.2,17.4,2.3,167,51,Medium,Weight-Loss,Veg
+Poha,Flattened rice dish,1 plate,200,139,22.7,51.1,14.2,1.5,176,53,High,Diabetes-Friendly,Non-Veg
+Apple,Fresh apple,1 medium,150,268,11.6,47.5,13.2,1.3,77,48,Low,General,Veg
+Sambar,Vegetable stew,1 bowl,200,180,16.2,5.6,7.6,0.4,41,29,Medium,Diabetes-Friendly,Veg
+Idli,Steamed rice cake,2 pieces,100,70,1.8,28.9,10.8,2.3,130,68,Medium,Weight-Loss,Veg
+Carrot,Raw carrot,1 medium,60,172,21.2,19.3,10.6,2.3,127,7,High,BP-Friendly,Veg
+Poha,Flattened rice dish,1 plate,200,87,16.0,36.1,18.1,0.7,298,3,High,Diabetes-Friendly,Veg
+Upma,Semolina dish,1 plate,200,94,2.3,57.0,10.7,4.1,223,70,High,Weight-Loss,Veg
+Carrot,Raw carrot,1 medium,60,351,5.5,49.0,8.7,1.5,24,34,High,Weight-Loss,Veg
+Carrot,Raw carrot,1 medium,60,348,5.2,40.3,6.9,0.9,50,17,Medium,Weight-Loss,Non-Veg
+Roti,Whole wheat flatbread,1 medium,40,367,2.4,18.5,8.8,2.7,90,79,Low,General,Non-Veg
+Dosa,Rice crepe,1 piece,120,381,24.9,53.3,9.8,3.4,109,22,Medium,BP-Friendly,Non-Veg
+Banana,Fresh banana,1 medium,120,320,18.2,29.3,15.0,1.5,261,26,High,Diabetes-Friendly,Non-Veg
+Poha,Flattened rice dish,1 plate,200,139,7.1,31.4,16.6,2.1,122,45,Medium,Diabetes-Friendly,Non-Veg
+Paneer,Cottage cheese,100 g,100,227,22.3,25.5,4.7,3.6,185,33,High,Diabetes-Friendly,Veg
+Egg,Boiled egg,1 piece,50,299,10.6,46.7,7.0,1.7,186,23,High,Diabetes-Friendly,Veg
+Poha,Flattened rice dish,1 plate,200,220,17.2,56.8,7.4,4.2,47,59,Medium,General,Non-Veg
+Brown Rice,Whole grain rice,1 cup,150,202,8.8,56.9,9.2,0.7,13,36,Low,BP-Friendly,Non-Veg
+Fish Curry,Fish gravy,1 bowl,250,181,13.3,16.8,1.1,0.8,172,52,Low,Diabetes-Friendly,Veg
+Upma,Semolina dish,1 plate,200,344,18.4,41.6,15.9,0.9,118,80,Medium,General,Non-Veg
+Upma,Semolina dish,1 plate,200,256,21.6,17.3,6.9,4.0,74,31,Low,BP-Friendly,Veg
+Apple,Fresh apple,1 medium,150,380,12.6,27.1,14.7,2.1,249,42,High,BP-Friendly,Non-Veg
+Paneer,Cottage cheese,100 g,100,288,3.4,31.1,7.9,3.4,299,44,Low,Weight-Loss,Non-Veg
+Roti,Whole wheat flatbread,1 medium,40,226,14.6,8.2,8.4,1.9,77,46,Low,Diabetes-Friendly,Veg
+Dal,Lentil curry,1 bowl,200,183,22.9,22.0,17.1,3.1,237,32,High,General,Veg
+Sambar,Vegetable stew,1 bowl,200,140,4.2,32.8,11.6,4.9,87,31,High,Weight-Loss,Veg
+Carrot,Raw carrot,1 medium,60,339,17.0,48.0,3.8,2.1,253,78,Medium,General,Non-Veg
+Carrot,Raw carrot,1 medium,60,87,21.2,23.5,16.2,3.7,7,5,High,Weight-Loss,Non-Veg
+Potato,Boiled potato,1 medium,150,144,23.9,24.1,11.3,3.6,134,49,Low,General,Veg
+Roti,Whole wheat flatbread,1 medium,40,193,12.5,18.4,8.3,2.8,148,8,Low,General,Non-Veg
+Potato,Boiled potato,1 medium,150,200,11.5,50.5,6.3,4.0,108,4,Low,BP-Friendly,Veg
+Roti,Whole wheat flatbread,1 medium,40,261,3.2,50.6,15.0,3.5,300,42,Medium,General,Veg
+Banana,Fresh banana,1 medium,120,126,22.4,21.3,12.0,0.9,213,79,Low,Diabetes-Friendly,Veg
+Spinach,Cooked spinach,1 cup,180,292,3.1,54.9,2.8,4.4,81,2,Medium,BP-Friendly,Veg
+Milk,Cow milk,1 glass,250,63,11.7,24.5,3.5,2.2,66,22,Medium,Weight-Loss,Non-Veg
+Biryani,Rice with meat,1 plate,300,290,12.6,22.0,4.9,3.4,291,36,Low,General,Veg
+Paneer,Cottage cheese,100 g,100,266,21.2,7.1,18.5,0.8,217,65,Medium,Weight-Loss,Non-Veg
+Carrot,Raw carrot,1 medium,60,237,10.3,15.1,10.6,2.6,178,34,High,Weight-Loss,Non-Veg
+Spinach,Cooked spinach,1 cup,180,185,1.3,8.5,4.6,0.9,285,25,Medium,General,Non-Veg
+Dal,Lentil curry,1 bowl,200,217,23.2,29.4,11.8,4.4,281,65,High,Weight-Loss,Veg
+Fish Curry,Fish gravy,1 bowl,250,115,16.6,19.3,2.5,4.2,252,39,Medium,General,Veg
+Upma,Semolina dish,1 plate,200,80,22.1,16.5,4.1,2.6,259,50,Medium,Weight-Loss,Veg
+Apple,Fresh apple,1 medium,150,385,14.0,17.8,17.2,1.7,254,37,High,General,Veg
+Milk,Cow milk,1 glass,250,187,19.0,11.7,13.1,2.3,221,44,Low,BP-Friendly,Non-Veg
+Biryani,Rice with meat,1 plate,300,109,23.7,54.5,0.9,4.2,138,71,High,BP-Friendly,Veg
+Idli,Steamed rice cake,2 pieces,100,184,12.7,47.4,19.4,2.5,54,70,Medium,Weight-Loss,Veg
+Biryani,Rice with meat,1 plate,300,164,9.6,48.4,16.0,2.5,38,15,High,General,Non-Veg
+Potato,Boiled potato,1 medium,150,309,5.3,57.5,12.9,1.4,261,46,Low,BP-Friendly,Veg
+Upma,Semolina dish,1 plate,200,173,7.9,18.6,12.9,2.4,101,27,Low,Weight-Loss,Veg
+Roti,Whole wheat flatbread,1 medium,40,389,23.1,54.7,2.0,1.6,12,43,High,Diabetes-Friendly,Non-Veg
+Poha,Flattened rice dish,1 plate,200,299,2.3,22.2,0.2,3.8,110,4,Medium,Diabetes-Friendly,Non-Veg
+Potato,Boiled potato,1 medium,150,300,7.3,47.7,10.1,1.7,197,37,High,BP-Friendly,Non-Veg
+Carrot,Raw carrot,1 medium,60,94,14.2,42.6,14.6,1.5,167,13,High,General,Non-Veg
+Idli,Steamed rice cake,2 pieces,100,70,12.1,30.0,7.4,1.5,126,19,Medium,BP-Friendly,Non-Veg
+Dosa,Rice crepe,1 piece,120,222,14.1,8.1,4.6,4.8,254,59,Low,General,Veg
+Idli,Steamed rice cake,2 pieces,100,367,7.2,35.0,15.1,2.0,173,39,High,General,Non-Veg
+White Rice,Steamed rice,1 cup,150,196,14.1,25.4,8.9,1.4,14,48,High,Weight-Loss,Non-Veg
+Paneer,Cottage cheese,100 g,100,107,14.9,45.2,7.2,1.6,167,18,Medium,General,Veg
+Brown Rice,Whole grain rice,1 cup,150,112,14.6,24.3,7.5,3.9,103,33,High,Weight-Loss,Veg
+Paneer,Cottage cheese,100 g,100,100,5.4,39.1,8.1,1.9,126,0,Low,General,Veg
+Dosa,Rice crepe,1 piece,120,264,21.5,20.3,8.7,2.7,6,70,Medium,General,Non-Veg
+Curd,Yogurt,1 bowl,200,326,9.8,28.3,17.7,2.1,218,17,Low,BP-Friendly,Non-Veg
+Paneer,Cottage cheese,100 g,100,109,9.1,55.3,5.9,0.3,127,76,Medium,Diabetes-Friendly,Non-Veg
+Egg,Boiled egg,1 piece,50,181,7.5,42.1,14.9,3.0,85,56,Low,General,Veg
+Potato,Boiled potato,1 medium,150,329,20.0,46.2,6.4,4.9,201,50,Low,Diabetes-Friendly,Non-Veg
+Dosa,Rice crepe,1 piece,120,178,15.4,51.9,11.4,3.2,67,49,High,BP-Friendly,Veg
+Upma,Semolina dish,1 plate,200,317,11.6,52.6,15.8,2.4,13,49,Medium,Diabetes-Friendly,Veg
+Spinach,Cooked spinach,1 cup,180,162,15.1,55.3,12.9,4.4,252,9,High,Weight-Loss,Non-Veg
+Curd,Yogurt,1 bowl,200,300,14.1,12.3,9.8,1.1,69,62,Medium,General,Veg
+Sambar,Vegetable stew,1 bowl,200,124,7.0,42.8,19.8,2.6,137,15,High,BP-Friendly,Non-Veg
+Dal,Lentil curry,1 bowl,200,115,21.7,52.2,15.5,1.4,293,45,Medium,General,Veg
+Curd,Yogurt,1 bowl,200,374,8.8,15.0,10.2,4.6,154,67,Low,Diabetes-Friendly,Veg
+Brown Rice,Whole grain rice,1 cup,150,115,5.8,26.8,11.2,2.1,205,55,Medium,General,Non-Veg
+Paneer,Cottage cheese,100 g,100,50,16.8,56.0,7.9,1.7,246,8,Low,Diabetes-Friendly,Non-Veg
+Sambar,Vegetable stew,1 bowl,200,229,22.1,30.1,7.0,0.9,111,25,High,Weight-Loss,Non-Veg
+Milk,Cow milk,1 glass,250,269,21.2,26.5,0.9,1.8,168,8,High,Weight-Loss,Non-Veg
+White Rice,Steamed rice,1 cup,150,204,4.1,40.7,1.0,0.2,167,37,Low,General,Non-Veg
+Biryani,Rice with meat,1 plate,300,368,19.0,35.6,17.0,3.2,181,25,Medium,Diabetes-Friendly,Veg
+Brown Rice,Whole grain rice,1 cup,150,186,15.7,40.8,8.4,1.5,164,29,High,General,Non-Veg
+Upma,Semolina dish,1 plate,200,308,24.7,55.9,2.4,2.5,71,77,Medium,Diabetes-Friendly,Non-Veg
+Milk,Cow milk,1 glass,250,191,13.0,49.5,4.6,4.9,100,58,Low,General,Non-Veg
+Banana,Fresh banana,1 medium,120,102,14.4,25.8,9.0,1.4,294,78,High,BP-Friendly,Veg
+White Rice,Steamed rice,1 cup,150,294,14.0,55.6,13.3,3.8,130,24,Low,Weight-Loss,Veg
+Brown Rice,Whole grain rice,1 cup,150,74,15.4,56.6,1.3,3.8,109,55,High,General,Non-Veg
+Dal,Lentil curry,1 bowl,200,271,21.3,56.8,0.6,3.2,97,69,High,Diabetes-Friendly,Veg
+Potato,Boiled potato,1 medium,150,209,11.2,55.4,5.4,4.8,168,23,Medium,Diabetes-Friendly,Veg
+Paneer,Cottage cheese,100 g,100,132,17.6,40.8,18.1,2.8,73,48,Low,Weight-Loss,Non-Veg
+Dal,Lentil curry,1 bowl,200,230,6.2,15.3,9.1,1.1,75,1,High,Diabetes-Friendly,Veg
+Sambar,Vegetable stew,1 bowl,200,63,9.9,40.1,13.6,3.9,270,18,Medium,Diabetes-Friendly,Non-Veg
+Dal,Lentil curry,1 bowl,200,230,19.9,46.9,18.9,3.8,258,42,High,Diabetes-Friendly,Non-Veg
